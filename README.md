@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://Dimzr21.github.io/" target="blank">
+Dimas Agung</a></h1>
+<h3 align="center"> a vacational high school student from &#x1F1EE;&#x1F1E9;</h3>
 
-<!--
-**Dimzr21/Dimzr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dimzr21&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-Here are some ideas to get you started:
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 currently studying web development
+   with <img top="14" height="14" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1422px-PHP-logo.svg.png" /> native
+
+
+<p align="center">
+
+</p>
